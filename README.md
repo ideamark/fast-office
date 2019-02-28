@@ -1,5 +1,5 @@
 # Overview
-fastOffice is an office script framwork fro creating office script fast and fluent.
+fast office is a quick python framwork for office and website automation.
 
 # Install
 * Install python3.x first
@@ -7,4 +7,4 @@ fastOffice is an office script framwork fro creating office script fast and flue
 * Download chromedriver from http://chromedriver.chromium.org/downloads with the right version of your Chrome browser.
 
 # Use
-Write python code on start.py
+Just write python code on start.py and execute it.
