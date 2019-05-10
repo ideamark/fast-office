@@ -1,3 +1,5 @@
+selenium
 pywin32
 xlrd
 xlutils
+pyinstaller
