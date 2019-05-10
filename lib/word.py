@@ -11,6 +11,6 @@ class Word(object):
     def replace(self, old_str, new_str):
         self.word.Selection.Find.Execute(old_str, False, False, False, False, False, True, 1, True, new_str, 2)
 
-    def saave(self):
+    def save(self):
         self.doc.Save()
         self.doc.Close()
