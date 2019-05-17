@@ -9,18 +9,18 @@ Fast office is a lightweight python framwork for office and website automation o
 # Coding
 Just write python code in main.py and execute it. U can also use compile.bat to compile the main.py to exe.
 
-## Web Class
+## Web
 * create a web object: web = Web(url)
 * click element: web.click(xpath)
 * read element value: web.read(xpath)
 * write to element: web.write(xpath)
 
-## Word class
+## Word
 * create a word object: word = Word(path)
 * replace text: word.replace(old_str, new_str)
 * save doc: word.save()
 
-## Excel class
+## Excel
 * create an Excel object: excel = Excel(path)
 * switch the sheet by name: excel.sheet(name)
 * switch the sheet by number: excel.sheet(number)
