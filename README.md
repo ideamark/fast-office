@@ -14,6 +14,7 @@ Just write python code in main.py and execute it. U can also use compile.bat to 
 * click element: web.click(xpath)
 * read element value: web.read(xpath)
 * write to element: web.write(xpath)
+* get source page: web.html()
 
 ## Word
 * create a word object: word = Word(path)
